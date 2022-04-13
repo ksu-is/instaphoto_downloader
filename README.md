@@ -7,4 +7,3 @@ This is a student assignment and project for Instagram photo downloader.
 
 A user can download photos from Instagram without taking a screenshot. 
 
-Library requirements are in the requirements.txt file found in the project folder.
