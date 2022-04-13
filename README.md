@@ -1,7 +1,7 @@
 # instaphoto_downloader
-A program that allows you to download photos from Instagram 
+## A program that allows you to download photos from Instagram 
 
-Member: Rika Matano
+- Member: Rika Matano
 
 This is a student assignment and project for Instagram photo downloader. 
 
