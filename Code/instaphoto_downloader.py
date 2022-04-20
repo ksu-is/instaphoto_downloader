@@ -18,3 +18,10 @@ pic_matches = re.findall('"display_url":"([^"])"', response)
 
 vid_urls = prepare_urls(vid_matches)
 pic_urls = prepare_urls(pic_matches)
+
+if vid_urls:
+    print('Detected Videos:\n{0}'.format('\n'.join(vid_urls)))
+
+if pic_urls:
+    print('Detected Pictures:\n{0}'.format('\n'.join(pic_urls)))
+
