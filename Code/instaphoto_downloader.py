@@ -14,7 +14,7 @@ url = input("Enter Instgram URL: ")
 response = get_response(url)
 
 vid_matches = re.findall('"video_url":"([^"]+)"', response)
-pic_matches = re.findall('"display_url":"([^"])"', response)
+pic_matches = re.findall('"display_url":"([^"]+)"', response)
 
 vid_urls = prepare_urls(vid_matches)
 pic_urls = prepare_urls(pic_matches)
