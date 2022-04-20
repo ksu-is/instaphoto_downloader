@@ -25,3 +25,5 @@ if vid_urls:
 if pic_urls:
     print('Detected Pictures:\n{0}'.format('\n'.join(pic_urls)))
 
+if not (vid_urls or pic_urls):
+    print('Could not recognize the media in the provided URL.')
