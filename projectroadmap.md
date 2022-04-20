@@ -17,3 +17,8 @@
 - [X] Evaluate similar repository for project viability.
 - [X] Read through repository, download, and run code.
 - Repository uses a previous version of tcod and tutorials, but upon execution is found to be running well.
+
+## Sprint 2
+
+- [X] Making small updates and adding commit messages with them in your repository in our Github organization so that your work is visible
+- [X] Tracking your progress on planned and emerging tasks in your projectroadmap.md document
