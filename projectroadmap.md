@@ -22,3 +22,9 @@
 
 - [X] Making small updates and adding commit messages with them in your repository in our Github organization so that your work is visible
 - [X] Tracking your progress on planned and emerging tasks in your projectroadmap.md document
+- [X] Start working on the project by April 14th
+- [X] Add comments 
+- [X] Complete the project by April 21st 
+
+## Sprint 3
+- [ ] Start working on a presentation
