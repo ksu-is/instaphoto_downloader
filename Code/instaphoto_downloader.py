@@ -12,7 +12,7 @@ def prepare_urls(matches):
     return list({match.replace("\\u0026", "&") for match in matches})
 
 #Take the instagram user input
-url = input("Enter Instgram URL: ")
+url = input("Enter Instagram URL: ")
 response = get_response(url)
 
 #Match the pattern to get the URLs
