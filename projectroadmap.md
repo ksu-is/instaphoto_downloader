@@ -27,4 +27,6 @@
 - [X] Complete the project by April 21st 
 
 ## Sprint 3
-- [ ] Start working on a presentation
+- [X] Start working on a presentation
+- [X] Finish Splash Screen 
+- [ ] Set up date for presentation
