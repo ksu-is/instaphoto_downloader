@@ -28,5 +28,7 @@
 
 ## Sprint 3
 - [X] Start working on a presentation
+- [X] Continue coding and refining and testing in Sprint 3 as in Sprint 2. I will look for additional progress. If you had minor scope for your project and  finish already, you need to add more scope and work on it. 
+- [X] Create one PowerPoint slide introducing your project and upload it. If you have more than one teammate, each needs to turn-in a copy in D2L to ensure everyone has a copy. The slide needs to be attractive and informative. 
 - [X] Finish Splash Screen 
 - [ ] Set up date for presentation
